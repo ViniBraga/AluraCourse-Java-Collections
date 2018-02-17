@@ -1,1 +1,1 @@
-# CursoAlura-Java-ExemplosCollections
+# AluraCourse-Java-Collections
